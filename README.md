@@ -1,2 +1,2 @@
 # algicosathlon-with-stats
-basic algicosathlon simulator with configurable stats (strength, dexterity, intelligence, d6)
+basic algicosathlon simulator in terminal with configurable stats (strength, dexterity, intelligence, d6)
